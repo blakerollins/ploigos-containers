@@ -150,7 +150,7 @@ or
 ./manual-publish.sh v1.0.0
 ```
 
-# How to Release? foo
+# How to Release?
 
 1. tag this repository with the release version
    * ex: `v1.42.0`
